@@ -48,7 +48,8 @@ This repo collects academic papers about **humanoid robot learning**.  They are 
 - [arXiv 2024.02](https://arxiv.org/abs/2402.18294), Whole-body Humanoid Robot Locomotion with Human Reference, [website](https://greatsjk.github.io/Adam-PNDbotics/)
 
 ## Model-Controller
-- [arXiv 2024.09](https://arxiv.org/pdf/2309.01813), Inverse Dynamics Trajectory Optimization for Contact-Implicit Model Predictive Contr, [website](https://idto.github.io/)
+- [arXiv 2024.09](https://arxiv.org/pdf/2309.01813), Inverse Dynamics Trajectory Optimization for Contact-Implicit Model Predictive Control, [website](https://idto.github.io/)
+- [arXiv 2024.10](https://doi.org/10.1016/j.robot.2023.104495), Humanoid motion generation in a world of stairs, [code](https://github.com/DIAG-Robotics-Lab/ismpc) / [code](https://github.com/stackrobot/ismpc-cpp)
 
 
 ## Whole-Body Controller
