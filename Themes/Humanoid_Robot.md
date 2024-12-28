@@ -11,6 +11,7 @@ This repo collects academic papers about **humanoid robot learning**.  They are 
   - [Model-Based RL](#model-based-rl)
   - [Transformer RL](#transformer-rl)
   - [Imitation Learning](#imitation-learning)
+  - [Model-Controller](#model-controller)
   - [Whole-Body Controller](#whole-body-controller)
   - [Simulation Benchmark](#simulation-benchmark)
 
@@ -45,6 +46,10 @@ This repo collects academic papers about **humanoid robot learning**.  They are 
 
 ## Imitation Learning
 - [arXiv 2024.02](https://arxiv.org/abs/2402.18294), Whole-body Humanoid Robot Locomotion with Human Reference, [website](https://greatsjk.github.io/Adam-PNDbotics/)
+
+## Model-Controller
+- [arXiv 2024.09](https://arxiv.org/pdf/2309.01813), Inverse Dynamics Trajectory Optimization for Contact-Implicit Model Predictive Contr, [website](https://idto.github.io/)
+
 
 ## Whole-Body Controller
 - [arXiv 2024.10](https://arxiv.org/abs/2410.21229), HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, [website](https://hover-versatile-humanoid.github.io/)
